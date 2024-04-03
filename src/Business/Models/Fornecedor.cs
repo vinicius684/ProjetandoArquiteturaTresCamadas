@@ -16,6 +16,6 @@ namespace Business.Models
 
 		public bool Ativo { get; set; }
 
-		public Enderaco? Endereco { get; set; }
+		public Endereco? Endereco { get; set; }
 	}
 }

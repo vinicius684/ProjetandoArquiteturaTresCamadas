@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "i3hQEb2/iGqq39ckBFg6xlnTny9QGdNg0FYwdAX3r+q7smAI7beJT9oAtSE6CINIdnkjkeQ4msKW/pVqlpMhqQ==",
+  "dgSpecHash": "6n9oyU7LNC55wYeU8gPqe5nyl0dxwshGEOzx6tCGS5D9dQg6c4ufOoDDG1UEjAaEqO0vN9/FXwwHcM8pUqvxbw==",
   "success": true,
   "projectFilePath": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Business\\Business.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\vpinh\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512"
+  ],
   "logs": []
 }
