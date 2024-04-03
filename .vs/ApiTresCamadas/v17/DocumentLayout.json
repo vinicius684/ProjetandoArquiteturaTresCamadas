@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB374B6-24F1-4681-8DCC-A42C45AE21A7}|src\\Business\\Business.csproj|c:\\users\\vpinh\\desktop\\desenvolvedor.io\\_7projetandoarquiteturaemtrescamadas\\apitrescamadas\\src\\business\\models\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB374B6-24F1-4681-8DCC-A42C45AE21A7}|src\\Business\\Business.csproj|solutionrelative:src\\business\\models\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB374B6-24F1-4681-8DCC-A42C45AE21A7}|src\\Business\\Business.csproj|c:\\users\\vpinh\\desktop\\desenvolvedor.io\\_7projetandoarquiteturaemtrescamadas\\apitrescamadas\\src\\business\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB374B6-24F1-4681-8DCC-A42C45AE21A7}|src\\Business\\Business.csproj|solutionrelative:src\\business\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB374B6-24F1-4681-8DCC-A42C45AE21A7}|src\\Business\\Business.csproj|c:\\users\\vpinh\\desktop\\desenvolvedor.io\\_7projetandoarquiteturaemtrescamadas\\apitrescamadas\\src\\business\\models\\enderaco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB374B6-24F1-4681-8DCC-A42C45AE21A7}|src\\Business\\Business.csproj|solutionrelative:src\\business\\models\\enderaco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB374B6-24F1-4681-8DCC-A42C45AE21A7}|src\\Business\\Business.csproj|c:\\users\\vpinh\\desktop\\desenvolvedor.io\\_7projetandoarquiteturaemtrescamadas\\apitrescamadas\\src\\business\\models\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB374B6-24F1-4681-8DCC-A42C45AE21A7}|src\\Business\\Business.csproj|solutionrelative:src\\business\\models\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB374B6-24F1-4681-8DCC-A42C45AE21A7}|src\\Business\\Business.csproj|c:\\users\\vpinh\\desktop\\desenvolvedor.io\\_7projetandoarquiteturaemtrescamadas\\apitrescamadas\\src\\business\\models\\tipofornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB374B6-24F1-4681-8DCC-A42C45AE21A7}|src\\Business\\Business.csproj|solutionrelative:src\\business\\models\\tipofornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB374B6-24F1-4681-8DCC-A42C45AE21A7}|src\\Business\\Business.csproj|c:\\users\\vpinh\\desktop\\desenvolvedor.io\\_7projetandoarquiteturaemtrescamadas\\apitrescamadas\\src\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1FB374B6-24F1-4681-8DCC-A42C45AE21A7}|src\\Business\\Business.csproj|solutionrelative:src\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 333,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +43,84 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Business\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "src\\Business\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Business\\Models\\Produto.cs",
+              "RelativeToolTip": "src\\Business\\Models\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T11:36:11.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enderaco.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Business\\Models\\Enderaco.cs",
+              "RelativeDocumentMoniker": "src\\Business\\Models\\Enderaco.cs",
+              "ToolTip": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Business\\Models\\Enderaco.cs",
+              "RelativeToolTip": "src\\Business\\Models\\Enderaco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T11:31:14.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TipoFornecedor.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Business\\Models\\TipoFornecedor.cs",
+              "RelativeDocumentMoniker": "src\\Business\\Models\\TipoFornecedor.cs",
+              "ToolTip": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Business\\Models\\TipoFornecedor.cs",
+              "RelativeToolTip": "src\\Business\\Models\\TipoFornecedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T23:48:03.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fornecedor.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Business\\Models\\Fornecedor.cs",
+              "RelativeDocumentMoniker": "src\\Business\\Models\\Fornecedor.cs",
+              "ToolTip": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Business\\Models\\Fornecedor.cs",
+              "RelativeToolTip": "src\\Business\\Models\\Fornecedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T23:42:52.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Business\\Models\\Entity.cs",
+              "RelativeDocumentMoniker": "src\\Business\\Models\\Entity.cs",
+              "ToolTip": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Business\\Models\\Entity.cs",
+              "RelativeToolTip": "src\\Business\\Models\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T23:26:53.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Business.csproj",
+              "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Business\\Business.csproj",
+              "RelativeDocumentMoniker": "src\\Business\\Business.csproj",
+              "ToolTip": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Business\\Business.csproj",
+              "RelativeToolTip": "src\\Business\\Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-02T23:11:33.676Z",
+              "EditorCaption": ""
             }
           ]
         }
