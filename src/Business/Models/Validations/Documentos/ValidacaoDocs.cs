@@ -99,7 +99,7 @@
         }
     }
 
-    public class DigitoVerificador//apoia dígitos verificadores
+    public class DigitoVerificador
     {
         private string _numero;
         private const int Modulo = 11;
@@ -158,7 +158,7 @@
         }
     }
 
-    public class Utils //retorna apenas números quando informar outros caracteres
+    public class Utils
     {
         public static string ApenasNumeros(string valor)
         {

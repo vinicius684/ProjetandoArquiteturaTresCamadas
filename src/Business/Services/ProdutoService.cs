@@ -1,5 +1,6 @@
 ﻿using Business.Interfaces;
 using Business.Models;
+using Business.Models.Validations;
 
 namespace Business.Services
 {
@@ -14,15 +15,15 @@ namespace Business.Services
 
 		public async Task Adicionar(Produto produto)
 		{
-			//validar se a entidade é consistente...
-
-			//validar se ja nao existe outro fornecedor com o mesmo doc
+			if (!ExecutarValidacao(new ProdutoValidation(), produto)) return;
 
 			await _produtoRepository.Adicionar(produto);
 		}
 
 		public async Task Atualizar(Produto produto)
 		{
+			if (!ExecutarValidacao(new ProdutoValidation(), produto)) return;
+
 			await _produtoRepository.Atualizar(produto);
 		}
 
