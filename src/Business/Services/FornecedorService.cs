@@ -9,7 +9,7 @@ namespace Business.Services
 	{
 		private readonly IFornecedorRepository _fornecedorRepository;
 
-		public FornecedorService(IFornecedorRepository forncedorRepository)
+		public FornecedorService(IFornecedorRepository forncedorRepository, INotificador notificador) : base(notificador)
 		{
 			_fornecedorRepository = forncedorRepository;
 		}

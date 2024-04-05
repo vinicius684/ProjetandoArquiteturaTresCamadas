@@ -1,18 +1,32 @@
-﻿using Business.Models;
+﻿using Business.Interfaces;
+using Business.Models;
+using Business.Notificacoes;
 using FluentValidation;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using FluentValidation.Results;
+
 
 namespace Business.Services
 {
 	public class BaseService
 	{
-		protected void Notificar(string mensagem)
+		private readonly INotificador _notificador;
+
+		public BaseService(INotificador notificador)
 		{ 
-			
+			_notificador = notificador;
+		}
+
+		protected void Notificar(ValidationResult validationResult)//transformar minhas mensagens de validação (ValidationResult do fluentValidation) em Notificacao (texto0
+		{
+			foreach (var item in validationResult.Errors)
+			{
+				Notificar(item.ErrorMessage);
+			}
+		}
+
+		protected void Notificar(string mensagem)
+		{
+			_notificador.Handle(new Notificacao(mensagem));
 		}
 
 		protected bool ExecutarValidacao<TV, TE>(TV validacao, TE entidade) where TV : AbstractValidator<TE> where TE : Entity  //classe validação e classe entidade
@@ -22,7 +36,7 @@ namespace Business.Services
 			if (validator.IsValid)
 				return true;
 
-			//lancamento de notificações
+			Notificar(validator);//passando
 
 			return false;
 		}
