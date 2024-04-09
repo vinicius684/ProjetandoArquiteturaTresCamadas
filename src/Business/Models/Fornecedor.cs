@@ -18,6 +18,7 @@ namespace Business.Models
 
 		public Endereco? Endereco { get; set; }
 
+		/*EF relation - mapear 1 fornecedor para N Produtos, porém pra mim não é só pra mapear faz parte do negocio tb(?)*/
 		public IEnumerable<Produto> Produtos { get; set; }//Fornecedor pode retornar um lista de produtos
 	}
 }

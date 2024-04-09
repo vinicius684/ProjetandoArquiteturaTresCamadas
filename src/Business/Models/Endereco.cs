@@ -17,5 +17,9 @@ namespace Business.Models
 		public string? Cidade { get; set; }
 
 		public string? Estado { get; set; }
+
+
+		/*EF Relation - Dizer no mappinga que Fornecedor tem 1 Endereco e Endereco tem 1 Fornecedor*/ 
+		public Fornecedor Fornecedor { get; set; }
 	}
 }

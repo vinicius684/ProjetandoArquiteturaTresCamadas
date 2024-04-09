@@ -8,6 +8,8 @@ namespace Business.Models
 {
 	public class Produto : Entity
 	{
+		public Guid FornecedorId { get; set; }//FK
+
 		public string? Nome { get; set; }
 
 		public string? Descricao { get; set;}
@@ -17,5 +19,8 @@ namespace Business.Models
 		public DateTime DataCadastro { get; set; }
 
 		public bool Ativo { get; set; }
+
+		/*EF Relations*/
+		public Fornecedor Fornecedor { get; set; }
 	}
 }
