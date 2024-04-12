@@ -7,8 +7,11 @@ namespace Data.Context
 	{
         public MeuDbContext(DbContextOptions<MeuDbContext> options) : base(options) 
         {
-            //algumas confis
-        }
+			//Configuração Necessária em uso de DTO ou VM
+            ChangeTracker.QueryTrackingBehavior = QueryTrackingBehavior.NoTracking;//não manter objetos em memória apos consulta ter sido exacutada
+			ChangeTracker.AutoDetectChangesEnabled = false;//desabilita a detecção automática de mudanças em objetos, necessário uso do db.SaveChanges()
+			//
+		}
 
 		//Entidades Assembly meu DB Context
         public DbSet<Produto> Produtos { get; set; }
@@ -28,6 +31,24 @@ namespace Data.Context
 			foreach (var relationship in modelBuilder.Model.GetEntityTypes().SelectMany(e => e.GetForeignKeys())) relationship.DeleteBehavior = DeleteBehavior.ClientSetNull;//varrer relacionamentos do tipo chave estrangeira, o que achar, setar esse comportamento para 'ClientSetNull'. Fazendo isso impede que ao deletar um fornecedor eu delete todos os produtos relacionados, Deleção em cascade.
 
 			base.OnModelCreating(modelBuilder);//aproveitando lógica da classe base
+		}
+
+		public override Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
+		{
+			foreach (var entry in ChangeTracker.Entries().Where(entry => entry.Entity.GetType().GetProperty("DataCadastro") != null))//Pegar as entidades que tiverem 'DataCaadastro'
+			{
+				if (entry.State == EntityState.Added)
+				{
+					entry.Property("DataCadastro").CurrentValue = DateTime.Now;
+				}
+
+				if (entry.State == EntityState.Modified)
+				{
+					entry.Property("DataCadastro").IsModified = false;//modificando não mexe
+				}
+			}
+
+			return base.SaveChangesAsync(cancellationToken);
 		}
 	}
 }

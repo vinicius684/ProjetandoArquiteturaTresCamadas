@@ -137,8 +137,7 @@
               "RelativeToolTip": "src\\Business\\Models\\Fornecedor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T23:42:52.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-02T23:42:52.31Z"
             },
             {
               "$type": "Document",
@@ -150,8 +149,7 @@
               "RelativeToolTip": "src\\Business\\Models\\Produto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T11:36:11.591Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T11:36:11.591Z"
             },
             {
               "$type": "Document",
@@ -163,8 +161,7 @@
               "RelativeToolTip": "src\\Business\\Models\\Entity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T23:26:53.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-02T23:26:53.901Z"
             },
             {
               "$type": "Document",
@@ -176,8 +173,7 @@
               "RelativeToolTip": "src\\Business\\Models\\TipoFornecedor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T23:48:03.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-02T23:48:03.234Z"
             },
             {
               "$type": "Document",
@@ -187,7 +183,7 @@
               "RelativeDocumentMoniker": "src\\Data\\Context\\MeuDbContext.cs",
               "ToolTip": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Data\\Context\\MeuDbContext.cs",
               "RelativeToolTip": "src\\Data\\Context\\MeuDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABtAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAowCEAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-08T20:37:10.138Z",
               "EditorCaption": ""
@@ -202,8 +198,7 @@
               "RelativeToolTip": "src\\Data\\Mappings\\EnderecoMapping.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T12:38:44.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T12:38:44.45Z"
             },
             {
               "$type": "Document",
@@ -215,8 +210,7 @@
               "RelativeToolTip": "src\\Data\\Mappings\\FornecedoresMapping.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T12:21:22.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T12:21:22.122Z"
             },
             {
               "$type": "Document",
@@ -228,8 +222,7 @@
               "RelativeToolTip": "src\\Business\\Models\\Endereco.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T11:31:14.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T11:31:14.939Z"
             },
             {
               "$type": "Document",
@@ -241,8 +234,7 @@
               "RelativeToolTip": "src\\Business\\Services\\FornecedorService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T21:19:07.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T21:19:07.895Z"
             },
             {
               "$type": "Document",
@@ -254,8 +246,7 @@
               "RelativeToolTip": "src\\Data\\Mappings\\ProdutosMappings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T12:07:46.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T12:07:46.722Z"
             },
             {
               "$type": "Document",
