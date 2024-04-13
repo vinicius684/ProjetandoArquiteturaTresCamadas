@@ -8,9 +8,9 @@ namespace Data.Mappings
 	{
 		public void Configure(EntityTypeBuilder<Fornecedor> builder)
 		{
-			builder.HasKey(x => x.Id);
+			builder.HasKey(p => p.Id);
 
-			builder.Property(x => x.Nome)
+			builder.Property(p => p.Nome)
 				.IsRequired()
 				.HasColumnType("varchar(200)");
 
@@ -19,13 +19,13 @@ namespace Data.Mappings
 				.HasColumnType("varchar(14)");
 
 			//1 : 1 => Fornecedor : Endereco
-			builder.HasOne(x => x.Endereco)
+			builder.HasOne(p => p.Endereco)
 				.WithOne(e => e.Fornecedor);
 
 			//1 : N => Fornecedor : Produtos
 			builder.HasMany(p => p.Produtos)
 				.WithOne(p => p.Fornecedor)
-				.HasForeignKey(p => p.Fornecedor.Id);	
+				.HasForeignKey(p => p.FornecedorId);	
 
 			builder.ToTable("Fornecedores");
 		}
