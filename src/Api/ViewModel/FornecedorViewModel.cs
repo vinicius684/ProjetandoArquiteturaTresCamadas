@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Api.ViewModels
+namespace Api.ViewModel
 {
     public class FornecedorViewModel
     {
