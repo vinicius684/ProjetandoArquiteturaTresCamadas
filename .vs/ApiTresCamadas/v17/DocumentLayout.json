@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4B8BDEE0-C7F1-454F-83A4-0B788C0895DA}|src\\Api\\Api.csproj|c:\\users\\vpinh\\desktop\\desenvolvedor.io\\_7projetandoarquiteturaemtrescamadas\\apitrescamadas\\src\\api\\viewmodel\\produtoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8BDEE0-C7F1-454F-83A4-0B788C0895DA}|src\\Api\\Api.csproj|solutionrelative:src\\api\\viewmodel\\produtoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8BDEE0-C7F1-454F-83A4-0B788C0895DA}|src\\Api\\Api.csproj|c:\\users\\vpinh\\desktop\\desenvolvedor.io\\_7projetandoarquiteturaemtrescamadas\\apitrescamadas\\src\\api\\viewmodel\\fornecedorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8BDEE0-C7F1-454F-83A4-0B788C0895DA}|src\\Api\\Api.csproj|solutionrelative:src\\api\\viewmodel\\fornecedorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8BDEE0-C7F1-454F-83A4-0B788C0895DA}|src\\Api\\Api.csproj|c:\\users\\vpinh\\desktop\\desenvolvedor.io\\_7projetandoarquiteturaemtrescamadas\\apitrescamadas\\src\\api\\viewmodel\\enderecoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8BDEE0-C7F1-454F-83A4-0B788C0895DA}|src\\Api\\Api.csproj|solutionrelative:src\\api\\viewmodel\\enderecoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8BDEE0-C7F1-454F-83A4-0B788C0895DA}|src\\Api\\Api.csproj|c:\\users\\vpinh\\desktop\\desenvolvedor.io\\_7projetandoarquiteturaemtrescamadas\\apitrescamadas\\src\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4B8BDEE0-C7F1-454F-83A4-0B788C0895DA}|src\\Api\\Api.csproj|solutionrelative:src\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8BDEE0-C7F1-454F-83A4-0B788C0895DA}|src\\Api\\Api.csproj|c:\\users\\vpinh\\desktop\\desenvolvedor.io\\_7projetandoarquiteturaemtrescamadas\\apitrescamadas\\src\\api\\viewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8BDEE0-C7F1-454F-83A4-0B788C0895DA}|src\\Api\\Api.csproj|solutionrelative:src\\api\\viewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8BDEE0-C7F1-454F-83A4-0B788C0895DA}|src\\Api\\Api.csproj|c:\\users\\vpinh\\desktop\\desenvolvedor.io\\_7projetandoarquiteturaemtrescamadas\\apitrescamadas\\src\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8BDEE0-C7F1-454F-83A4-0B788C0895DA}|src\\Api\\Api.csproj|solutionrelative:src\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8BDEE0-C7F1-454F-83A4-0B788C0895DA}|src\\Api\\Api.csproj|c:\\users\\vpinh\\desktop\\desenvolvedor.io\\_7projetandoarquiteturaemtrescamadas\\apitrescamadas\\src\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4B8BDEE0-C7F1-454F-83A4-0B788C0895DA}|src\\Api\\Api.csproj|solutionrelative:src\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9A3D7E6A-C3F1-49B8-A349-E9D22A543594}|src\\Data\\Data.csproj|c:\\users\\vpinh\\desktop\\desenvolvedor.io\\_7projetandoarquiteturaemtrescamadas\\apitrescamadas\\src\\data\\repository\\fornecedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A3D7E6A-C3F1-49B8-A349-E9D22A543594}|src\\Data\\Data.csproj|solutionrelative:src\\data\\repository\\fornecedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -51,16 +79,8 @@
       "RelativeMoniker": "D:0:0:{9A3D7E6A-C3F1-49B8-A349-E9D22A543594}|src\\Data\\Data.csproj|solutionrelative:src\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B8BDEE0-C7F1-454F-83A4-0B788C0895DA}|src\\Api\\Api.csproj|c:\\users\\vpinh\\desktop\\desenvolvedor.io\\_7projetandoarquiteturaemtrescamadas\\apitrescamadas\\src\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4B8BDEE0-C7F1-454F-83A4-0B788C0895DA}|src\\Api\\Api.csproj|solutionrelative:src\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1FB374B6-24F1-4681-8DCC-A42C45AE21A7}|src\\Business\\Business.csproj|c:\\users\\vpinh\\desktop\\desenvolvedor.io\\_7projetandoarquiteturaemtrescamadas\\apitrescamadas\\src\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{1FB374B6-24F1-4681-8DCC-A42C45AE21A7}|src\\Business\\Business.csproj|solutionrelative:src\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B8BDEE0-C7F1-454F-83A4-0B788C0895DA}|src\\Api\\Api.csproj|c:\\users\\vpinh\\desktop\\desenvolvedor.io\\_7projetandoarquiteturaemtrescamadas\\apitrescamadas\\src\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B8BDEE0-C7F1-454F-83A4-0B788C0895DA}|src\\Api\\Api.csproj|solutionrelative:src\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B8BDEE0-C7F1-454F-83A4-0B788C0895DA}|src\\Api\\Api.csproj|c:\\users\\vpinh\\desktop\\desenvolvedor.io\\_7projetandoarquiteturaemtrescamadas\\apitrescamadas\\src\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -145,8 +165,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 333,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnderecoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Api\\ViewModel\\EnderecoViewModel.cs",
+              "RelativeDocumentMoniker": "src\\Api\\ViewModel\\EnderecoViewModel.cs",
+              "ToolTip": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Api\\ViewModel\\EnderecoViewModel.cs",
+              "RelativeToolTip": "src\\Api\\ViewModel\\EnderecoViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T13:27:54.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Api\\ViewModel\\ProdutoViewModel.cs",
+              "RelativeDocumentMoniker": "src\\Api\\ViewModel\\ProdutoViewModel.cs",
+              "ToolTip": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Api\\ViewModel\\ProdutoViewModel.cs",
+              "RelativeToolTip": "src\\Api\\ViewModel\\ProdutoViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T13:27:49.135Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -157,7 +203,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "FornecedorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Api\\ViewModel\\FornecedorViewModel.cs",
+              "RelativeDocumentMoniker": "src\\Api\\ViewModel\\FornecedorViewModel.cs",
+              "ToolTip": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Api\\ViewModel\\FornecedorViewModel.cs",
+              "RelativeToolTip": "src\\Api\\ViewModel\\FornecedorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T13:26:29.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Api\\ViewModels.cs",
+              "RelativeDocumentMoniker": "src\\Api\\ViewModels.cs",
+              "ToolTip": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Api\\ViewModels.cs",
+              "RelativeToolTip": "src\\Api\\ViewModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T13:04:15.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-15T12:28:37.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "FornecedorRepository.cs",
               "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Data\\Repository\\FornecedorRepository.cs",
               "RelativeDocumentMoniker": "src\\Data\\Repository\\FornecedorRepository.cs",
@@ -170,33 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProdutoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Data\\Repository\\ProdutoRepository.cs",
-              "RelativeDocumentMoniker": "src\\Data\\Repository\\ProdutoRepository.cs",
-              "ToolTip": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Data\\Repository\\ProdutoRepository.cs",
-              "RelativeToolTip": "src\\Data\\Repository\\ProdutoRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T18:11:28.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Data\\Repository\\Repository.cs",
-              "RelativeDocumentMoniker": "src\\Data\\Repository\\Repository.cs",
-              "ToolTip": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Data\\Repository\\Repository.cs",
-              "RelativeToolTip": "src\\Data\\Repository\\Repository.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAC0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T11:49:24.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "EnderecoMapping.cs",
               "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Data\\Mappings\\EnderecoMapping.cs",
               "RelativeDocumentMoniker": "src\\Data\\Mappings\\EnderecoMapping.cs",
@@ -208,7 +267,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Program.cs",
+              "ToolTip": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Api\\Program.cs",
+              "RelativeToolTip": "src\\Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:55:56.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Api.csproj",
+              "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Api\\Api.csproj",
+              "RelativeDocumentMoniker": "src\\Api\\Api.csproj",
+              "ToolTip": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Api\\Api.csproj",
+              "RelativeToolTip": "src\\Api\\Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-12T14:18:45.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Data\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "src\\Data\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Data\\Repository\\Repository.cs",
+              "RelativeToolTip": "src\\Data\\Repository\\Repository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T11:49:24.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Data\\Repository\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "src\\Data\\Repository\\ProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Data\\Repository\\ProdutoRepository.cs",
+              "RelativeToolTip": "src\\Data\\Repository\\ProdutoRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T18:11:28.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "FornecedoresMapping.cs",
               "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Data\\Mappings\\FornecedoresMapping.cs",
               "RelativeDocumentMoniker": "src\\Data\\Mappings\\FornecedoresMapping.cs",
@@ -220,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "MeuDbContext.cs",
               "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Data\\Context\\MeuDbContext.cs",
               "RelativeDocumentMoniker": "src\\Data\\Context\\MeuDbContext.cs",
@@ -232,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "IProdutoRepository.cs",
               "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Business\\Interfaces\\IProdutoRepository.cs",
               "RelativeDocumentMoniker": "src\\Business\\Interfaces\\IProdutoRepository.cs",
@@ -240,12 +349,11 @@
               "RelativeToolTip": "src\\Business\\Interfaces\\IProdutoRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T18:07:27.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T18:07:27.637Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "20240412144114_Initial.cs",
               "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Data\\Migrations\\20240412144114_Initial.cs",
               "RelativeDocumentMoniker": "src\\Data\\Migrations\\20240412144114_Initial.cs",
@@ -257,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "FornecedorService.cs",
               "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Business\\Services\\FornecedorService.cs",
               "RelativeDocumentMoniker": "src\\Business\\Services\\FornecedorService.cs",
@@ -269,7 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "Data.csproj",
               "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Data\\Data.csproj",
               "RelativeDocumentMoniker": "src\\Data\\Data.csproj",
@@ -277,11 +385,12 @@
               "RelativeToolTip": "src\\Data\\Data.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-03T20:56:34.879Z"
+              "WhenOpened": "2024-04-03T20:56:34.879Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "Endereco.cs",
               "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Business\\Models\\Endereco.cs",
               "RelativeDocumentMoniker": "src\\Business\\Models\\Endereco.cs",
@@ -293,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "ProdutosMappings.cs",
               "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Data\\Mappings\\ProdutosMappings.cs",
               "RelativeDocumentMoniker": "src\\Data\\Mappings\\ProdutosMappings.cs",
@@ -305,19 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Api.csproj",
-              "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Api\\Api.csproj",
-              "RelativeDocumentMoniker": "src\\Api\\Api.csproj",
-              "ToolTip": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Api\\Api.csproj",
-              "RelativeToolTip": "src\\Api\\Api.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-12T14:18:45.573Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "Business.csproj",
               "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Business\\Business.csproj",
               "RelativeDocumentMoniker": "src\\Business\\Business.csproj",
@@ -325,23 +422,12 @@
               "RelativeToolTip": "src\\Business\\Business.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-02T23:11:33.676Z"
+              "WhenOpened": "2024-04-02T23:11:33.676Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Api\\Program.cs",
-              "RelativeDocumentMoniker": "src\\Api\\Program.cs",
-              "ToolTip": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Api\\Program.cs",
-              "RelativeToolTip": "src\\Api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T13:55:56.051Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Api\\appsettings.json",
               "RelativeDocumentMoniker": "src\\Api\\appsettings.json",
@@ -353,7 +439,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "Entity.cs",
               "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Business\\Models\\Entity.cs",
               "RelativeDocumentMoniker": "src\\Business\\Models\\Entity.cs",
@@ -365,7 +451,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Business\\Models\\Produto.cs",
               "RelativeDocumentMoniker": "src\\Business\\Models\\Produto.cs",
@@ -377,7 +463,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "TipoFornecedor.cs",
               "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Business\\Models\\TipoFornecedor.cs",
               "RelativeDocumentMoniker": "src\\Business\\Models\\TipoFornecedor.cs",
@@ -389,7 +475,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "Fornecedor.cs",
               "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Business\\Models\\Fornecedor.cs",
               "RelativeDocumentMoniker": "src\\Business\\Models\\Fornecedor.cs",
@@ -401,7 +487,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "Notificacao.cs",
               "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Business\\Notificacoes\\Notificacao.cs",
               "RelativeDocumentMoniker": "src\\Business\\Notificacoes\\Notificacao.cs",
@@ -413,7 +499,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "Notificador.cs",
               "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Business\\Notificacoes\\Notificador.cs",
               "RelativeDocumentMoniker": "src\\Business\\Notificacoes\\Notificador.cs",
@@ -425,7 +511,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "BaseService.cs",
               "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Business\\Services\\BaseService.cs",
               "RelativeDocumentMoniker": "src\\Business\\Services\\BaseService.cs",
@@ -437,7 +523,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "INotificador.cs",
               "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Business\\Interfaces\\INotificador.cs",
               "RelativeDocumentMoniker": "src\\Business\\Interfaces\\INotificador.cs",
@@ -449,7 +535,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "ProdutoService.cs",
               "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Business\\Services\\ProdutoService.cs",
               "RelativeDocumentMoniker": "src\\Business\\Services\\ProdutoService.cs",
@@ -461,7 +547,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "IFornecedorRepository.cs",
               "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Business\\Interfaces\\IFornecedorRepository.cs",
               "RelativeDocumentMoniker": "src\\Business\\Interfaces\\IFornecedorRepository.cs",
@@ -473,7 +559,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "ProdutoValidation.cs",
               "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Business\\Models\\Validations\\ProdutoValidation.cs",
               "RelativeDocumentMoniker": "src\\Business\\Models\\Validations\\ProdutoValidation.cs",
@@ -485,7 +571,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "FornecedorValidation.cs",
               "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Business\\Models\\Validations\\FornecedorValidation.cs",
               "RelativeDocumentMoniker": "src\\Business\\Models\\Validations\\FornecedorValidation.cs",
@@ -497,7 +583,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 33,
               "Title": "EnderecoValidation.cs",
               "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Business\\Models\\Validations\\EnderecoValidation.cs",
               "RelativeDocumentMoniker": "src\\Business\\Models\\Validations\\EnderecoValidation.cs",
@@ -509,7 +595,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 34,
               "Title": "ValidacaoDocs.cs",
               "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Business\\Models\\Validations\\Documentos\\ValidacaoDocs.cs",
               "RelativeDocumentMoniker": "src\\Business\\Models\\Validations\\Documentos\\ValidacaoDocs.cs",
@@ -521,7 +607,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 35,
               "Title": "IFornecedorService.cs",
               "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Business\\Interfaces\\IFornecedorService.cs",
               "RelativeDocumentMoniker": "src\\Business\\Interfaces\\IFornecedorService.cs",
@@ -533,7 +619,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 37,
               "Title": "IProdutoService.cs",
               "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Business\\Interfaces\\IProdutoService.cs",
               "RelativeDocumentMoniker": "src\\Business\\Interfaces\\IProdutoService.cs",
@@ -545,7 +631,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 36,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\src\\Business\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "src\\Business\\Interfaces\\IRepository.cs",
@@ -557,7 +643,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 38,
               "Title": "Fornecedor.cs",
               "DocumentMoniker": "C:\\Users\\vpinh\\AppData\\Local\\Temp\\089df3d7-3491-48e8-ab5d-cd5c455f21f9_348EA229-B2B7-494C-B588-2BD6ED47F697-01 - TodosOsProjetos.zip.1f9\\M03A02 - Como trabalhar a valida\u00E7\u00E3o\\ApiTresCamadas\\src\\DevIO.Business\\Models\\Fornecedor.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\089df3d7-3491-48e8-ab5d-cd5c455f21f9_348EA229-B2B7-494C-B588-2BD6ED47F697-01 - TodosOsProjetos.zip.1f9\\M03A02 - Como trabalhar a valida\u00E7\u00E3o\\ApiTresCamadas\\src\\DevIO.Business\\Models\\Fornecedor.cs",
