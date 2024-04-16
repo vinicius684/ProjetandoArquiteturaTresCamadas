@@ -1,3 +1,4 @@
+using Api.Configurations;
 using Data.Context;
 using Microsoft.EntityFrameworkCore;
 
@@ -16,6 +17,8 @@ builder.Services.AddDbContext<MeuDbContext>(options =>
 });
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());//
+
+builder.Services.ResolveDependencies();
 
 var app = builder.Build();
 

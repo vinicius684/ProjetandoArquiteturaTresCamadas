@@ -5,7 +5,7 @@ using DevIO.Business.Models.Validations;
 
 namespace Business.Services
 {
-	internal class FornecedorService : BaseService, IFornecedorService
+	public class FornecedorService : BaseService, IFornecedorService
 	{
 		private readonly IFornecedorRepository _fornecedorRepository;
 

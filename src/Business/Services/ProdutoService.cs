@@ -4,7 +4,7 @@ using Business.Models.Validations;
 
 namespace Business.Services
 {
-	internal class ProdutoService : BaseService, IProdutoService
+	public class ProdutoService : BaseService, IProdutoService
 	{
 		private readonly IProdutoRepository _produtoRepository;
 
