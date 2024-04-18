@@ -1,4 +1,4 @@
-﻿using Api.ViewModel;
+﻿using Api.ViewModels;
 using AutoMapper;
 using Business.Models;
 

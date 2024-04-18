@@ -4,6 +4,7 @@ using AutoMapper;
 using Business.Interfaces;
 using Business.Models;
 using Microsoft.AspNetCore.Mvc;
+using System.Net;
 using System.Reflection.Metadata.Ecma335;
 
 namespace Api.Controllers
@@ -17,7 +18,8 @@ namespace Api.Controllers
 
 		public ProdutosController(IProdutoRepository produtoRepository,
 								  IProdutoService produtoService,
-								  IMapper mapper)
+								  IMapper mapper,
+								  INotificador notificador): base(notificador) 
 		{
 			_produtoRepository = produtoRepository;
 			_produtoService = produtoService;
@@ -47,7 +49,7 @@ namespace Api.Controllers
 
 			await _produtoService.Adicionar(_mapper.Map<Produto>(produtoViewModel));
 
-			return CustomResponse(produtoViewModel);
+			return CustomResponse(HttpStatusCode.Created, produtoViewModel);
 		}
 
 		[HttpPut("{id:guid}")]
@@ -70,7 +72,7 @@ namespace Api.Controllers
 
 			await _produtoService.Atualizar(_mapper.Map<Produto>(produtoAtualizacao));
 
-			return CustomResponse();
+			return CustomResponse(HttpStatusCode.NoContent);
 		}
 
 		[HttpDelete("{id:guid}")]
@@ -82,7 +84,7 @@ namespace Api.Controllers
 
 			await _produtoService.Remover(id);
 
-			return CustomResponse();
+			return CustomResponse(HttpStatusCode.NoContent);
 		}
 
 		private async Task<ProdutoViewModel> ObterProduto(Guid id)
