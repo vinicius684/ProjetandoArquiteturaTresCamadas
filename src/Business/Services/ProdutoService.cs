@@ -24,6 +24,14 @@ namespace Business.Services
 		{
 			if (!ExecutarValidacao(new ProdutoValidation(), produto)) return;
 
+			var produtoExistente = _produtoRepository.ObterPorId(produto.Id);
+
+			if (produtoExistente != null)
+			{
+				Notificar("Já existe um produto com ID informado!");
+				return;
+			}
+
 			await _produtoRepository.Atualizar(produto);
 		}
 
