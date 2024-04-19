@@ -1,0 +1,103 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DevIO.App
+build_property.RootNamespace = DevIO.App
+build_property.ProjectDir = C:\Users\vpinh\Desktop\M05A09 - Funcionamento da arquitetura no MVC\AppMvcTresCamadas\src\DevIO.App\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\vpinh\Desktop\M05A09 - Funcionamento da arquitetura no MVC\AppMvcTresCamadas\src\DevIO.App
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/vpinh/Desktop/M05A09 - Funcionamento da arquitetura no MVC/AppMvcTresCamadas/src/DevIO.App/Views/Fornecedores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcmVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vpinh/Desktop/M05A09 - Funcionamento da arquitetura no MVC/AppMvcTresCamadas/src/DevIO.App/Views/Fornecedores/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcmVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vpinh/Desktop/M05A09 - Funcionamento da arquitetura no MVC/AppMvcTresCamadas/src/DevIO.App/Views/Fornecedores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcmVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vpinh/Desktop/M05A09 - Funcionamento da arquitetura no MVC/AppMvcTresCamadas/src/DevIO.App/Views/Fornecedores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcmVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vpinh/Desktop/M05A09 - Funcionamento da arquitetura no MVC/AppMvcTresCamadas/src/DevIO.App/Views/Fornecedores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vpinh/Desktop/M05A09 - Funcionamento da arquitetura no MVC/AppMvcTresCamadas/src/DevIO.App/Views/Fornecedores/_DetalhesEndereco.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcmVzXF9EZXRhbGhlc0VuZGVyZWNvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vpinh/Desktop/M05A09 - Funcionamento da arquitetura no MVC/AppMvcTresCamadas/src/DevIO.App/Views/Fornecedores/_Endereco.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcmVzXF9FbmRlcmVjby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vpinh/Desktop/M05A09 - Funcionamento da arquitetura no MVC/AppMvcTresCamadas/src/DevIO.App/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vpinh/Desktop/M05A09 - Funcionamento da arquitetura no MVC/AppMvcTresCamadas/src/DevIO.App/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vpinh/Desktop/M05A09 - Funcionamento da arquitetura no MVC/AppMvcTresCamadas/src/DevIO.App/Views/Produtos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vpinh/Desktop/M05A09 - Funcionamento da arquitetura no MVC/AppMvcTresCamadas/src/DevIO.App/Views/Produtos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vpinh/Desktop/M05A09 - Funcionamento da arquitetura no MVC/AppMvcTresCamadas/src/DevIO.App/Views/Produtos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vpinh/Desktop/M05A09 - Funcionamento da arquitetura no MVC/AppMvcTresCamadas/src/DevIO.App/Views/Produtos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vpinh/Desktop/M05A09 - Funcionamento da arquitetura no MVC/AppMvcTresCamadas/src/DevIO.App/Views/Produtos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vpinh/Desktop/M05A09 - Funcionamento da arquitetura no MVC/AppMvcTresCamadas/src/DevIO.App/Views/Produtos/_ListaProdutos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcX0xpc3RhUHJvZHV0b3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vpinh/Desktop/M05A09 - Funcionamento da arquitetura no MVC/AppMvcTresCamadas/src/DevIO.App/Views/Shared/Components/Summary/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU3VtbWFyeVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vpinh/Desktop/M05A09 - Funcionamento da arquitetura no MVC/AppMvcTresCamadas/src/DevIO.App/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vpinh/Desktop/M05A09 - Funcionamento da arquitetura no MVC/AppMvcTresCamadas/src/DevIO.App/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vpinh/Desktop/M05A09 - Funcionamento da arquitetura no MVC/AppMvcTresCamadas/src/DevIO.App/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vpinh/Desktop/M05A09 - Funcionamento da arquitetura no MVC/AppMvcTresCamadas/src/DevIO.App/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vpinh/Desktop/M05A09 - Funcionamento da arquitetura no MVC/AppMvcTresCamadas/src/DevIO.App/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-yu2tq73l1k

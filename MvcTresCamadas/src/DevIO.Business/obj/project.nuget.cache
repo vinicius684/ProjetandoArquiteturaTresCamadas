@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xzt94Y1Ooa9afcv0QaYZ5DMvYQCCd2OgJi4YPpbDwb2AIYoJvXJhLqtJF/dTV5j5XmnCG3K4+jzhjXiP3c583Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vpinh\\Desktop\\M05A09 - Funcionamento da arquitetura no MVC\\AppMvcTresCamadas\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vpinh\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512"
+  ],
+  "logs": []
+}

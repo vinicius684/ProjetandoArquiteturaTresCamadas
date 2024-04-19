@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V67OwxVWmCDVcmPC71LdycDUdnMQMy7SwoQ9OAdcRo4jBusb2o5MKTm9kMJAOdvXCVhhzuLXVhzRbA4YjHsIDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\ApiTresCamadas\\src\\Business\\Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vpinh\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}
