@@ -4170,11 +4170,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\ApiTresCamadas\\src\\Data\\Data.csproj",
+      "projectUniqueName": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiEMvcTresCamadas\\ApiTresCamadas\\src\\Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\ApiTresCamadas\\src\\Data\\Data.csproj",
+      "projectPath": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiEMvcTresCamadas\\ApiTresCamadas\\src\\Data\\Data.csproj",
       "packagesPath": "C:\\Users\\vpinh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\ApiTresCamadas\\src\\Data\\obj\\",
+      "outputPath": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiEMvcTresCamadas\\ApiTresCamadas\\src\\Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4194,8 +4194,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\ApiTresCamadas\\src\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\ApiTresCamadas\\src\\Business\\Business.csproj"
+            "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiEMvcTresCamadas\\ApiTresCamadas\\src\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiEMvcTresCamadas\\ApiTresCamadas\\src\\Business\\Business.csproj"
             }
           }
         }

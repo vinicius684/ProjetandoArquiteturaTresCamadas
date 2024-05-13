@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "syolA7m7PuGm9+4EUdNRLBDtI14g50En2OF6OMloMHoFxuOGL8bVzRx3qR0Z+uC0qt5y5InqQGi03w69zusLxQ==",
+  "dgSpecHash": "4Xjj1jWCBllGwMDKugbK8S6DKpbwhTwdXHXnQDcpGWSmAU8BB6XESdV80x1DPLbkbc1sTXn3qAAi7YS/ooNyCA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\ApiTresCamadas\\src\\Api\\Api.csproj",
+  "projectFilePath": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiEMvcTresCamadas\\ApiTresCamadas\\src\\Api\\Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vpinh\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\vpinh\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

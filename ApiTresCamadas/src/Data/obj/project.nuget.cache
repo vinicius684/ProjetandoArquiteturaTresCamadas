@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y97MqBXBioyVySjdCG1tkS7rYwr2U82AeXteMUloP9UOrzXR9TNNmQm30rVm4VdSTecIuGuB+8P3pnIgjzXBwQ==",
+  "dgSpecHash": "vU5t7wwjHFZb+LGLCSHTk56cj2qRiqw0KCzPK6vzKyhWIpUNH8NT/SI/yyWvC16HoxVpFWz1Jt/ycwGKKYUFXw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\ApiTresCamadas\\src\\Data\\Data.csproj",
+  "projectFilePath": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiEMvcTresCamadas\\ApiTresCamadas\\src\\Data\\Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vpinh\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\vpinh\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

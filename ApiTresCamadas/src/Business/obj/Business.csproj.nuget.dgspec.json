@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\ApiTresCamadas\\src\\Business\\Business.csproj": {}
+    "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiEMvcTresCamadas\\ApiTresCamadas\\src\\Business\\Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\ApiTresCamadas\\src\\Business\\Business.csproj": {
+    "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiEMvcTresCamadas\\ApiTresCamadas\\src\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\ApiTresCamadas\\src\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiEMvcTresCamadas\\ApiTresCamadas\\src\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\ApiTresCamadas\\src\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiEMvcTresCamadas\\ApiTresCamadas\\src\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\vpinh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiTresCamadas\\ApiTresCamadas\\src\\Business\\obj\\",
+        "outputPath": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_7ProjetandoArquiteturaEmTresCamadas\\ApiEMvcTresCamadas\\ApiTresCamadas\\src\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -3,6 +3,7 @@ using Data.Context;
 using Data.Repository;
 using Business.Services;
 using Business.Notificacoes;
+using Data.UoW;
 
 namespace Api.Configurations
 {
@@ -13,6 +14,7 @@ namespace Api.Configurations
 			//scoped mais utilizado em app web, a instancia dura durante o request
 			//Data
 			services.AddScoped<MeuDbContext>();//já está sendo resolvido na program
+			services.AddScoped<IUnitOfWork, UnitOfWork>();
 			services.AddScoped<IProdutoRepository, ProdutoRepository>();
 			services.AddScoped<IFornecedorRepository, FornecedorRepository>();
 

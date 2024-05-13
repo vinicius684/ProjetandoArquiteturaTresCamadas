@@ -15,6 +15,6 @@ namespace Business.Interfaces
 
 		Task<Endereco> ObterEnderecoPorFornecedor(Guid fornecedorId);
 
-		Task RemoverEnderecoFornecedor(Endereco endereco);
+		void RemoverEnderecoFornecedor(Endereco endereco);
 	}
 }

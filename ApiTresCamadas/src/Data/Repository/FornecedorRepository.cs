@@ -38,10 +38,9 @@ namespace Data.Repository
 				.FirstOrDefaultAsync(f => f.FornecedorId == fornecedorId);
 		}
 
-		public async Task RemoverEnderecoFornecedor(Endereco endereco)
+		public void RemoverEnderecoFornecedor(Endereco endereco)
 		{
 			Db.Enderecos.Remove(endereco);
-			await SaveChanges();
 		}
 	}
 }
